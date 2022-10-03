@@ -1,0 +1,10 @@
+[package]
+name = "graphic_engine"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wgpu = { git = "https://github.com/gfx-rs/wgpu.git", version = "0.13.0" }
+winit = { git = "https://github.com/rust-windowing/winit.git", version = "0.27.3"}
