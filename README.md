@@ -1,3 +1,4 @@
 # Graphic Engine
-- [] add wgpu surface to render graphics onto window
-- [] add render_pipeline
+- [ ] add wgpu::Surface to Window
+- [ ] setup adapter and render_pipeline
+- [ ] add easy funtions to render shapes
